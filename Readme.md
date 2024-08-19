@@ -20,6 +20,8 @@ This repository contains scripts designed to automate the process of updating XM
 
 1. Clone the repository:
 
+put these files into project folder of SDK6
+
    ```bash
    git clone https://github.com/yourusername/project-automation-scripts.git
    cd project-automation-scripts
